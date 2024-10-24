@@ -45,8 +45,8 @@ for i in ${files[@]};do
 		cp ${img} ${blankFile}
 	fi
 done
-mv ${blankFile} ${any}
-rm ${any}
+ mv ${blankFile} ${any}
+ rm ${any}
 
 
 
@@ -62,3 +62,11 @@ for i in ${files[@]};do
 	fi
 done
 '
+
+
+<<Comment
+sl
+ala
+lala
+lala
+Comment
